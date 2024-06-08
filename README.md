@@ -1,4 +1,4 @@
-# Taufiq Car Rental
+# Shahadat Car Rental
 
 ## Description
 Shahadat Car Rental is a Flutter application designed to help users rent cars easily and efficiently.
